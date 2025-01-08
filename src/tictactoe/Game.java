@@ -2,7 +2,7 @@ package tictactoe;
 
 import java.util.Scanner;
 
-public class Game { // Class utama untuk mengatur alur permainan11111111111111
+public class Game { // Class utama untuk mengatur alur permainan
     private final AbstractBoard board; // PW: Board mewarisi AbstractBoard dan disimpan sebagai referensi tipe abstrak
     private Player currentPlayer;
 
